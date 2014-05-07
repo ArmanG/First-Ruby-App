@@ -3,7 +3,7 @@
 A simple blog system
 View the app: http://stormy-cliffs-5263.herokuapp.com/
 
-Required Knowledge:
+Requirements/Recommended Knowledge:
 
 * Ruby version
 
