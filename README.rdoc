@@ -1,11 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+A simple blog system
 View the app: http://stormy-cliffs-5263.herokuapp.com/
 
-Topics covered:
+Required Knowledge:
 
 * Ruby version
 
@@ -24,6 +22,22 @@ Topics covered:
 * Deployment instructions
 
 * ...
+
+Topics Covered:
+
+*Models, Views, and Controllers (MVC)
+
+*Data Structures & Relationships
+
+*Routing
+
+*Migrations
+
+*Views with forms, partials, and helpers
+
+*RESTful design
+
+*Adding gems for extra features
 
 
 
