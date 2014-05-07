@@ -25,19 +25,19 @@ Required Knowledge:
 
 Topics Covered:
 
-*Models, Views, and Controllers (MVC)
+* Models, Views, and Controllers (MVC)
 
-*Data Structures & Relationships
+* Data Structures & Relationships
 
-*Routing
+* Routing
 
-*Migrations
+* Migrations
 
-*Views with forms, partials, and helpers
+* Views with forms, partials, and helpers
 
-*RESTful design
+* RESTful design
 
-*Adding gems for extra features
+* Adding gems for extra features
 
 
 
